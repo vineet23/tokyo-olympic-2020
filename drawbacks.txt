@@ -1,0 +1,2 @@
+1. Data is not proper from source i.e it contains only medals count by country not by athletes or games
+2. No proper model created or power bi dashboard as it is only for azure skills purpose

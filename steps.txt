@@ -1,0 +1,7 @@
+1. Created a storage account and a Blob container in it with public access for the csv raw files, also created container for raw and transformed data
+2. Created a data factory and created a ingestion pipeline to get the raw data into the raw folder
+3. Created a databricks service and also created a App registration with role as Storage Blob Data Contributor for Storage Account
+   to get the access keys required to connect Databricks with Storage Account
+4. Created a notebook in databricks and write the transform logic in it and run it to load the data in transformed data folder 
+5. Created a Synapse Service and loaded the data in it from data lake i.e Storage Account 
+6. Used Synapse Service to connect with Power BI and created a dashboard

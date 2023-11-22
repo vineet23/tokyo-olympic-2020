@@ -1,0 +1,15 @@
+Programming Language - Spark
+
+Microsoft Azure -
+Storage Account (Azure Data Lake Storage)
+App Registration (for Storage Access in Databricks)
+Data Factory
+Azure Databricks Service
+Azure Synapse Analytics
+Power BI
+
+Data Model Diagram - https://lucid.app/documents#/documents?folder_id=home
+
+More info about dataset can be found here:
+
+kaggle - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
